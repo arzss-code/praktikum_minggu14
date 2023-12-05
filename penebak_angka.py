@@ -1,3 +1,6 @@
+# Created By Atsiila Arya Nabiih
+# Politeknik Negeri Semarang
+
 def guess_number():
     secret_number = 9
     guess
